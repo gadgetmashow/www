@@ -1,0 +1,8 @@
+﻿วิธีติดตั้ง
+1. แก้ไข file setting.php
+$website="http://localhost/path/";
+ให้แก้เป็น path ที่ใช้รันสคริป ให้มีเครื่องหมาย / ปิดท้ายด้วย
+2.import ไฟล์ postweb.sql ลง database 
+3.แก้ไฟล์ connect.php ตั้งค่าการเชื่อมต่อ
+4.ไฟล์สมัครสมาชิก ชื่อ add_account.php ให้รันไฟล์ที่นี่
+5.ไฟล์โพสประกาศ ชื่อ add_post.php ให้รันโพสที่นี่
