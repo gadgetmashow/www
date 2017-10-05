@@ -4,7 +4,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Pimtarabeach Resort | 038-638-842 ,061-464-9542</title>
+    <title>ที่พักระยองติดทะเล Pimtarabeach Resort หาที่พักระยองโทร 061-464-9542</title>
+	<meta name="description" content="หาที่พักระยองติดทะเลนึกถึงเรา พิมพ์ธาราบีช รีสอร์ท ที่พักระยองยอดนิมยมใน pantip ราคาไม่แพง ที่พักระยองคุณภาพดี สะอาด สัตว์เลี้ยงเข้าพักได้ ที่พักระยอง แหล่มแม่พิมพ์ โทร 061-464-9542"/>
+	<meta name="keywords" content="ที่พักระยอง, ที่พักระยองติดทะเล, หาที่พักระยอง, หาที่พักระยองติดทะเล, ที่พักระยอง pantip, ที่พักระยองติดทะเล pantip"/>
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
